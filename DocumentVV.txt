@@ -1,0 +1,16 @@
+https://embed.plnkr.co/plunk/a1zal2  -json2pdf
+
+https://www.npmjs.com/package/ng-pdf-make -- make pdf
+
+
+http://rawgit.com/MrRio/jsPDF/master/docs/jspdf.js.html#line2183
+
+
+jspdf fromhtml example
+
+https://stackoverflow.com/questions/18191893/generate-pdf-from-html-in-div-using-javascript
+
+Questions to ask
+--------------------
+
+1. After generating the pdf do you want to save some where in db.
